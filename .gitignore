@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.env
+*.venv
+*.envrc
+*.python-version
+
+# IDE configuration files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# macOS system files
+.DS_Store
+
+# Logs and local environment settings
+*.log
+*.bak
+*.tmp
+
+# Dependency management
+# requirements.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python cache
+*.egg
+*.egg-info/
+*.pyd
+*.pyo
+*.so
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.manifest
+*.spec
+
+# Testing
+.coverage
+.pytest_cache/
+
+# AWS/Cloud configuration
+*.aws/
+*.credentials
+
+# Database files
+*.sqlite3
+*.db
+
+# NodeJS-related (if Node tools are used)
+node_modules/
+
+# Other sensitive data
+*.pem
+*.key
+*.crt
